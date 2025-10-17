@@ -1,0 +1,5 @@
+Repository URL: https://github.com/GurneetKaur14/PlatformSettingsApp.git
+Student Name: Gurneet Kaur
+Student ID: N01724218
+Lab: CPAN 213 – Lab 5
+Date: October 16, 2025
